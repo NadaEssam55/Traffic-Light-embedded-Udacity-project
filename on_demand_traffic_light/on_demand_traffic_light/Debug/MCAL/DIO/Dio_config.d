@@ -1,0 +1,20 @@
+MCAL/DIO/Dio_config.d MCAL/DIO/Dio_config.o: ../MCAL/DIO/Dio_config.c \
+ ../MCAL/DIO/DIO_STD.h ../MCAL/DIO/DIO.h \
+ ../MCAL/DIO/../../UTILITIES/REGISTERS.h \
+ ../MCAL/DIO/../../UTILITIES/STD_TYPES.h \
+ ../MCAL/DIO/../../UTILITIES/MATH_BIT.h \
+ ../MCAL/DIO/../../UTILITIES/STD_TYPES.h ../MCAL/DIO/Dio_config.h
+
+../MCAL/DIO/DIO_STD.h:
+
+../MCAL/DIO/DIO.h:
+
+../MCAL/DIO/../../UTILITIES/REGISTERS.h:
+
+../MCAL/DIO/../../UTILITIES/STD_TYPES.h:
+
+../MCAL/DIO/../../UTILITIES/MATH_BIT.h:
+
+../MCAL/DIO/../../UTILITIES/STD_TYPES.h:
+
+../MCAL/DIO/Dio_config.h:
